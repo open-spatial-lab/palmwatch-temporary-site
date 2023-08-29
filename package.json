@@ -1,0 +1,25 @@
+{
+  "name": "palmwatch-temporary-site",
+  "version": "1.0.0",
+  "description": "Very temporary site",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "cd ./docs && http-server -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uchicago-dsi/palmwatch-temporary-site.git"
+  },
+  "author": "Dylan Halperni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uchicago-dsi/palmwatch-temporary-site/issues"
+  },
+  "homepage": "https://github.com/uchicago-dsi/palmwatch-temporary-site#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

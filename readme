@@ -1,0 +1,7 @@
+# Very temporary site
+Reqs:
+- Node / NPM
+
+To run, clone then:
+1. `npm install`
+2. `npm run start` 
